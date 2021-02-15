@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('Stage 1') {
 			steps {
-				echo Genesso Trainings
+				echo "Genesso Trainings"
 			}
 		}
 		stage('stage 2') {
